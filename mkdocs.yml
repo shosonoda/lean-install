@@ -1,0 +1,37 @@
+site_name: Lean 環境構築
+site_description: 「数学系エンドユーザーのためのLean入門」の事前環境構築マニュアル
+site_url: https://shosonoda.github.io/lean-install/
+repo_url: https://github.com/shosonoda/lean-install
+repo_name: shosonoda/lean-install
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    # - navigation.sections
+    - navigation.sticky
+    - navigation.top
+    - content.code.copy
+    # - toc.follow
+    - toc.integrate
+
+nav:
+  - はじめに: index.md
+  - 確認チェックリスト: checklist.md
+  - 作業マニュアル: setup-manual.md
+  - リカバリー手順書: recovery.md
+  - Codespaces 利用手順: codespaces.md
+  # - 講師向け運用メモ: instructor-notes.md
+  # - Web 公開方法: publish-github-pages.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tasklist:
+      clickable_checkbox: true
