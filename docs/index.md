@@ -94,6 +94,3 @@
 <!-- - GitHub Codespaces: https://docs.github.com/en/codespaces -->
 <!-- - GitHub Pages: https://docs.github.com/en/pages -->
 
-## このサイトについて
-- 担当: 園田 翔（理化学研究所 / サイバーエージェント）
-- 
