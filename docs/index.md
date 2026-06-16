@@ -1,6 +1,13 @@
-# Lean 講義 環境構築ガイド
+# Lean 4 環境構築ガイド
 
 「数学系エンドユーザーのための Lean 入門」講義の事前準備用ガイドです．
+
+- 講義概要: [https://www.math.kyoto-u.ac.jp/ja/event/seminar/6028](https://www.math.kyoto-u.ac.jp/ja/event/seminar/6028)
+- 講義資料:
+    - [website](https://shosonoda.github.io/lean-math-note/)
+    - [github](https://github.com/shosonoda/lean-math-note/)
+- 担当: 園田翔（理化学研究所 / サイバーエージェント）
+- 更新日: 2026年6月吉日
 
 ## 概要
 
@@ -9,7 +16,7 @@
     - バックアップ環境（Codespaces）を利用する際に必要となります
     - アカウント作成・設定には時間がかかりますので，なるべく事前に準備しておいてください
 - ローカル環境が構築できなかった場合のバックアップは2通りあります
-    - Codespaces を使う（要GitHubアカウント）
+    - [Codespaces 利用手順](codespaces.md) を使う（要GitHubアカウント）
     - [LeanPlayground](https://live.lean-lang.org/) を使う（小規模ならこれでも十分）
 - Lean はバージョン指定が違うと動きません
     - 講義では安定版（`stable`）を使います
@@ -73,13 +80,20 @@
 !!! tip "作業フォルダ名の注意"
     Windows では，作業フォルダ名に日本語・空白・特殊記号を入れない方が安全です．例: `C:\Users\ユーザー名\LeanProjects` よりも，可能なら `C:\LeanProjects` や `C:\Users\ユーザー名\lean-projects` のようにします．
 
-<!-- ## 参考リンク
+## 参考リンク
 
-- Lean 公式インストール: [https://lean-lang.org/install/](https://lean-lang.org/install/)
-- Lean 手動インストール: [https://lean-lang.org/install/manual/](https://lean-lang.org/install/manual/)
-- Lean 4 VS Code 拡張: [https://marketplace.visualstudio.com/items?itemName=leanprover.lean4](https://marketplace.visualstudio.com/items?itemName=leanprover.lean4) -->
+- Lean 公式: [https://lean-lang.org/](https://lean-lang.org/)
+- [数学系のためのLean勉強会](https://haruhisa-enomoto.github.io/lean-math-workshop/)
+    - [教材](https://github.com/yuma-mizuno/lean-math-workshop)
+- [Leanのインストール方法](https://aconite-ac.github.io/how_to_install_lean/) by aconite
+- [Lean-by-Example](https://lean-ja.github.io/lean-by-example/)
+<!-- - Lean 4 VS Code 拡張: [https://marketplace.visualstudio.com/items?itemName=leanprover.lean4](https://marketplace.visualstudio.com/items?itemName=leanprover.lean4) -->
 <!-- - elan: https://github.com/leanprover/elan -->
 <!-- - mathlib4: https://github.com/leanprover-community/mathlib4 -->
 <!-- - GitHub CLI: https://cli.github.com/ -->
 <!-- - GitHub Codespaces: https://docs.github.com/en/codespaces -->
 <!-- - GitHub Pages: https://docs.github.com/en/pages -->
+
+## このサイトについて
+- 担当: 園田 翔（理化学研究所 / サイバーエージェント）
+- 
