@@ -6,7 +6,7 @@
 - 講義資料:
     - [website](https://shosonoda.github.io/lean-math-note/)
     - [github](https://github.com/shosonoda/lean-math-note/)
-- 担当: 園田翔（理化学研究所 / サイバーエージェント）
+- 担当: [園田翔（理化学研究所 / サイバーエージェント）](https://sites.google.com/view/shosonoda/home)
 - 更新日: 2026年6月吉日
 
 ## 概要
