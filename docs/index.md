@@ -78,7 +78,7 @@
     公開リポジトリを HTTPS で clone してローカルで実行するだけなら，GitHub アカウントは不要です．GitHub CLI のログイン，Codespaces，自分のリポジトリへの保存には GitHub アカウントが必要です．
 
 !!! tip "作業フォルダ名の注意"
-    Windows では，作業フォルダ名に日本語・空白・特殊記号を入れない方が安全です．例: `C:\Users\ユーザー名\LeanProjects` よりも，可能なら `C:\LeanProjects` や `C:\Users\ユーザー名\lean-projects` のようにします．
+    Windows では，作業フォルダ名に日本語・空白・特殊記号を入れない方が安全です．例: `C:\Users\ユーザー名\LeanProjects` よりも，可能なら `C:\LeanProjects` のようにします．
 
 ## 参考リンク
 
