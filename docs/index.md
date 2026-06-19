@@ -87,6 +87,7 @@
     - [教材](https://github.com/yuma-mizuno/lean-math-workshop)
 - [Leanのインストール方法](https://aconite-ac.github.io/how_to_install_lean/) by aconite
 - [Lean-by-Example](https://lean-ja.github.io/lean-by-example/)
+    - [Leanのインストール方法](https://lean-ja.github.io/lean-by-example/HowToInstall.html)
 <!-- - Lean 4 VS Code 拡張: [https://marketplace.visualstudio.com/items?itemName=leanprover.lean4](https://marketplace.visualstudio.com/items?itemName=leanprover.lean4) -->
 <!-- - elan: https://github.com/leanprover/elan -->
 <!-- - mathlib4: https://github.com/leanprover-community/mathlib4 -->
