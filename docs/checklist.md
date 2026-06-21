@@ -201,7 +201,7 @@ lake build
 code .
 ```
 
-実行例（ `test.lean` を開いた例）:
+**実行例:** VS Code + Lean InfoView で `test.lean` を開いた例
 
 ![](pics/vscode-init.png)
 
@@ -234,6 +234,11 @@ code .
 
 - 通常手順は [作業マニュアル 11](setup-manual.md#11-markdown) 
 - プレビューが開かない場合は [リカバリー 8](recovery.md#8-markdown)
+
+**実行例:** VS Code + Markdown Preview で `README.md` を開いた例
+
+![](pics/vscode-md.png)
+
 
 <!-- ---
 ## 事務連絡

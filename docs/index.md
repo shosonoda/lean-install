@@ -52,6 +52,16 @@
 5. VS Code で `.lean` ファイルを開くと Lean Infoview が動く．
 6. （オプション）VS Code で Markdown のプレビューを表示できる．
 
+### 利用例
+- **VS Code** + Markdown Preview + Lean InfoView
+
+<img src="pics/vscode-infoview-md.png" alt="VS Code + Markdown Preview + Lean InfoView" style="width: 80vw; height: auto;">
+
+- **Chrome** 分割ビュー + 講義資料（[印刷用ページ](https://shosonoda.github.io/lean-math-note/print_page/)） + [Lean Playground](https://live.lean-lang.org/)
+
+<img src="pics/chrome-split.png" alt="Chrome 分割ビュー + 講義資料 + Lean Playground" style="width: 80vw; height: auto;">
+
+
 ## 手順
 
 1. [公式のLeanインストール手順](https://lean-lang.org/install/)に沿って環境構築を試みてください
