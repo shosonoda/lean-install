@@ -11,7 +11,8 @@
 
 ブラウザで次のテンプレート・リポジトリを開きます．
 
-[https://github.com/yuta0x89/lean-course-template](https://github.com/yuta0x89/lean-course-template)
+- <https://github.com/shosonoda/lean-math-note-template>
+- （予備） <https://github.com/yuta0x89/lean-course-template>
 
 GitHub にログインした状態で，次を実行します．
 
