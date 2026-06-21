@@ -201,9 +201,9 @@ lake build
 code .
 ```
 
-実行例（別のプロジェクトの例）:
+実行例（ `test.lean` を開いた例）:
 
-![](pics/vscode-infoview.png)
+![](pics/vscode-init.png)
 
 チェック:
 
